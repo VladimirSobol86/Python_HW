@@ -1,5 +1,5 @@
 import random
-
+#from modules import validate_queens
 def validate_queens(queens):
     for i in range (len(queens)):
         for j in range(i+1, len(queens)):
