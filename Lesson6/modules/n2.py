@@ -7,12 +7,13 @@ def validate_queens(queens):
 
 #для успешной проверки
 #queens = [[1, 7], [2, 4], [3, 2], [4, 8], [5, 6], [6, 1], [7, 3], [8, 5]]
-queens = []
-for _ in range(8):
-    queen = list(map(int, input(f'Введите 2 координаты {_+1}-ой фигуры: ').split()))
-    queens.append(queen)
-print(queens)
-if validate_queens(queens):
-    print('Не бьют')
-else:
-    print('Бьют')
+if __name__ == '__main__':
+    queens = []
+    for _ in range(8):
+        queen = list(map(int, input(f'Введите 2 координаты {_+1}-ой фигуры: ').split()))
+        queens.append(queen)
+    print(queens)
+    if validate_queens(queens):
+        print('Не бьют')
+    else:
+        print('Бьют')
