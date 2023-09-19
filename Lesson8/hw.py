@@ -29,15 +29,15 @@ def directory_walker(dir_path):
                             "size_in_bytes": get_size(full_path)
                             })
     print(results)
-    with open("output.json", "w") as json_file:
+    with open("Lesson8/output.json", "w") as json_file:
         json.dump(results, json_file, indent=4, ensure_ascii=False)
 
-    with open("output.csv", "w") as csv_file:
+    with open("Lesson8/output.csv", "w") as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=results[0].keys(), delimiter=' ', quoting=csv.QUOTE_ALL)
         writer.writeheader()
         writer.writerows(results)
 
-    with open("output.pickle", "wb") as pickle_file:
+    with open("Lesson8/output.pickle", "wb") as pickle_file:
         pickle.dump(results, pickle_file)
 
 directory_walker("Lesson8/my_folder")

@@ -1,0 +1,56 @@
+[
+    {
+        "parent_directory": "Lesson8/my_folder",
+        "is_file": true,
+        "name": "first_json.json",
+        "size_in_bytes": 118
+    },
+    {
+        "parent_directory": "Lesson8/my_folder",
+        "is_file": true,
+        "name": "results.txt",
+        "size_in_bytes": 95
+    },
+    {
+        "parent_directory": "Lesson8/my_folder",
+        "is_file": true,
+        "name": "users.csv",
+        "size_in_bytes": 73
+    },
+    {
+        "parent_directory": "Lesson8/my_folder",
+        "is_file": true,
+        "name": "users.json",
+        "size_in_bytes": 162
+    },
+    {
+        "parent_directory": "Lesson8/my_folder",
+        "is_file": true,
+        "name": "users.pickle",
+        "size_in_bytes": 56
+    },
+    {
+        "parent_directory": "Lesson8/my_folder",
+        "is_file": false,
+        "name": "my_folder2",
+        "size_in_bytes": 301
+    },
+    {
+        "parent_directory": "Lesson8/my_folder\\my_folder2",
+        "is_file": true,
+        "name": "111.txt",
+        "size_in_bytes": 0
+    },
+    {
+        "parent_directory": "Lesson8/my_folder\\my_folder2",
+        "is_file": true,
+        "name": "hash_users.json",
+        "size_in_bytes": 185
+    },
+    {
+        "parent_directory": "Lesson8/my_folder\\my_folder2",
+        "is_file": true,
+        "name": "hash_users.pickle",
+        "size_in_bytes": 116
+    }
+]
