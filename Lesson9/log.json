@@ -1,0 +1,2694 @@
+{
+    "args": [
+        28.0,
+        56.0,
+        9.0
+    ],
+    "result": [
+        -0.17624552895208595,
+        -1.823754471047914
+    ]
+}{
+    "args": [
+        27.0,
+        62.0,
+        60.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        12.0,
+        99.0,
+        55.0
+    ],
+    "result": [
+        -0.599054500326662,
+        -7.650945499673338
+    ]
+}{
+    "args": [
+        66.0,
+        16.0,
+        15.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        85.0,
+        5.0,
+        29.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        85.0,
+        79.0,
+        31.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        60.0,
+        92.0,
+        54.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        1.0,
+        87.0,
+        100.0
+    ],
+    "result": [
+        -1.1650262785011307,
+        -85.83497372149887
+    ]
+}{
+    "args": [
+        96.0,
+        46.0,
+        96.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        30.0,
+        90.0,
+        33.0
+    ],
+    "result": [
+        -0.42761947052363924,
+        -2.572380529476361
+    ]
+}{
+    "args": [
+        20.0,
+        96.0,
+        100.0
+    ],
+    "result": [
+        -1.5282202112918652,
+        -3.271779788708135
+    ]
+}{
+    "args": [
+        48.0,
+        57.0,
+        70.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        53.0,
+        94.0,
+        68.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        30.0,
+        16.0,
+        18.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        71.0,
+        1.0,
+        38.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        86.0,
+        4.0,
+        10.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        9.0,
+        59.0,
+        81.0
+    ],
+    "result": [
+        -1.9572372973328096,
+        -4.598318258222745
+    ]
+}{
+    "args": [
+        58.0,
+        32.0,
+        94.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        63.0,
+        20.0,
+        14.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        47.0,
+        23.0,
+        75.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        87.0,
+        8.0,
+        20.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        73.0,
+        58.0,
+        90.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        52.0,
+        43.0,
+        37.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        33.0,
+        24.0,
+        5.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        70.0,
+        56.0,
+        85.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        31.0,
+        54.0,
+        81.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        48.0,
+        91.0,
+        54.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        84.0,
+        20.0,
+        71.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        71.0,
+        69.0,
+        31.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        2.0,
+        17.0,
+        41.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        87.0,
+        77.0,
+        4.0
+    ],
+    "result": [
+        -0.055418066228760665,
+        -0.8296394050356071
+    ]
+}{
+    "args": [
+        6.0,
+        85.0,
+        80.0
+    ],
+    "result": [
+        -1.013714088456619,
+        -13.152952578210048
+    ]
+}{
+    "args": [
+        28.0,
+        69.0,
+        5.0
+    ],
+    "result": [
+        -0.07472996977865698,
+        -2.3895557445070574
+    ]
+}{
+    "args": [
+        95.0,
+        89.0,
+        51.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        95.0,
+        32.0,
+        21.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        51.0,
+        35.0,
+        78.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        31.0,
+        34.0,
+        77.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        56.0,
+        23.0,
+        78.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        16.0,
+        72.0,
+        60.0
+    ],
+    "result": [
+        -1.10435607626104,
+        -3.3956439237389597
+    ]
+}{
+    "args": [
+        13.0,
+        26.0,
+        61.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        14.0,
+        10.0,
+        11.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        68.0,
+        38.0,
+        27.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        93.0,
+        8.0,
+        71.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        36.0,
+        89.0,
+        92.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        41.0,
+        10.0,
+        37.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        60.0,
+        79.0,
+        30.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        28.0,
+        96.0,
+        87.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        95.0,
+        95.0,
+        8.0
+    ],
+    "result": [
+        -0.09282746447702228,
+        -0.9071725355229776
+    ]
+}{
+    "args": [
+        47.0,
+        60.0,
+        33.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        36.0,
+        58.0,
+        77.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        30.0,
+        43.0,
+        48.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        31.0,
+        51.0,
+        48.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        65.0,
+        64.0,
+        59.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        23.0,
+        11.0,
+        44.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        23.0,
+        79.0,
+        26.0
+    ],
+    "result": [
+        -0.3686889244133827,
+        -3.0660936842822695
+    ]
+}{
+    "args": [
+        61.0,
+        17.0,
+        14.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        94.0,
+        90.0,
+        79.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        31.0,
+        96.0,
+        30.0
+    ],
+    "result": [
+        -0.35266109723544276,
+        -2.7441130963129443
+    ]
+}{
+    "args": [
+        4.0,
+        4.0,
+        14.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        27.0,
+        92.0,
+        28.0
+    ],
+    "result": [
+        -0.33784526558623895,
+        -3.0695621418211685
+    ]
+}{
+    "args": [
+        66.0,
+        12.0,
+        67.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        41.0,
+        24.0,
+        87.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        78.0,
+        74.0,
+        99.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        50.0,
+        22.0,
+        71.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        72.0,
+        19.0,
+        35.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        84.0,
+        29.0,
+        75.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        5.0,
+        22.0,
+        99.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        10.0,
+        50.0,
+        96.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        98.0,
+        75.0,
+        70.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        57.0,
+        8.0,
+        78.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        71.0,
+        30.0,
+        99.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        77.0,
+        89.0,
+        9.0
+    ],
+    "result": [
+        -0.11197056621012369,
+        -1.043873589634032
+    ]
+}{
+    "args": [
+        96.0,
+        27.0,
+        67.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        7.0,
+        97.0,
+        4.0
+    ],
+    "result": [
+        -0.04136056571934432,
+        -13.815782291423513
+    ]
+}{
+    "args": [
+        41.0,
+        80.0,
+        74.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        62.0,
+        82.0,
+        14.0
+    ],
+    "result": [
+        -0.2014007280844112,
+        -1.1211799170768793
+    ]
+}{
+    "args": [
+        100.0,
+        97.0,
+        89.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        12.0,
+        3.0,
+        96.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        18.0,
+        2.0,
+        28.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        28.0,
+        36.0,
+        75.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        29.0,
+        71.0,
+        28.0
+    ],
+    "result": [
+        -0.49407188414689207,
+        -1.9542039779220732
+    ]
+}{
+    "args": [
+        73.0,
+        77.0,
+        81.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        9.0,
+        37.0,
+        34.0
+    ],
+    "result": [
+        -1.3865780789559836,
+        -2.7245330321551275
+    ]
+}{
+    "args": [
+        37.0,
+        67.0,
+        72.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        6.0,
+        71.0,
+        60.0
+    ],
+    "result": [
+        -0.9159722704408342,
+        -10.917361062892498
+    ]
+}{
+    "args": [
+        2.0,
+        23.0,
+        10.0
+    ],
+    "result": [
+        -0.4525949748957272,
+        -11.047405025104272
+    ]
+}{
+    "args": [
+        32.0,
+        85.0,
+        11.0
+    ],
+    "result": [
+        -0.13641781464572844,
+        -2.5198321853542716
+    ]
+}{
+    "args": [
+        53.0,
+        80.0,
+        91.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        55.0,
+        36.0,
+        80.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        60.0,
+        80.0,
+        92.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        85.0,
+        32.0,
+        95.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        63.0,
+        14.0,
+        0.0
+    ],
+    "result": [
+        0.0,
+        -0.2222222222222222
+    ]
+}{
+    "args": [
+        39.0,
+        55.0,
+        80.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        42.0,
+        93.0,
+        72.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        76.0,
+        71.0,
+        87.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        44.0,
+        2.0,
+        42.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        40.0,
+        75.0,
+        92.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        40.0,
+        58.0,
+        8.0
+    ],
+    "result": [
+        -0.15436438947433367,
+        -1.2956356105256663
+    ]
+}{
+    "args": [
+        95.0,
+        82.0,
+        91.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        32.0,
+        45.0,
+        77.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        98.0,
+        22.0,
+        64.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        10.0,
+        98.0,
+        86.0
+    ],
+    "result": [
+        -0.9744427147218957,
+        -8.825557285278105
+    ]
+}{
+    "args": [
+        19.0,
+        46.0,
+        19.0
+    ],
+    "result": [
+        -0.5283430843781199,
+        -1.8927095472008275
+    ]
+}{
+    "args": [
+        8.0,
+        66.0,
+        12.0
+    ],
+    "result": [
+        -0.18601218585281742,
+        -8.063987814147183
+    ]
+}{
+    "args": [
+        62.0,
+        54.0,
+        87.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        51.0,
+        12.0,
+        11.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        32.0,
+        60.0,
+        62.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        24.0,
+        5.0,
+        94.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        100.0,
+        80.0,
+        75.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        3.0,
+        59.0,
+        61.0
+    ],
+    "result": [
+        -1.0948488473877802,
+        -18.571817819278888
+    ]
+}{
+    "args": [
+        11.0,
+        6.0,
+        38.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        61.0,
+        52.0,
+        69.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        44.0,
+        64.0,
+        52.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        3.0,
+        90.0,
+        68.0
+    ],
+    "result": [
+        -0.7756078044320868,
+        -29.224392195567912
+    ]
+}{
+    "args": [
+        92.0,
+        94.0,
+        65.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        66.0,
+        0.0,
+        74.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        90.0,
+        85.0,
+        72.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        68.0,
+        58.0,
+        50.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        36.0,
+        22.0,
+        18.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        72.0,
+        5.0,
+        12.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        67.0,
+        76.0,
+        73.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        97.0,
+        60.0,
+        4.0
+    ],
+    "result": [
+        -0.07600601033021111,
+        -0.5425506907007167
+    ]
+}{
+    "args": [
+        29.0,
+        56.0,
+        82.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        25.0,
+        96.0,
+        88.0
+    ],
+    "result": [
+        -1.5120784389125772,
+        -2.327921561087423
+    ]
+}{
+    "args": [
+        65.0,
+        29.0,
+        65.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        50.0,
+        25.0,
+        84.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        78.0,
+        83.0,
+        52.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        74.0,
+        27.0,
+        54.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        74.0,
+        17.0,
+        5.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        79.0,
+        36.0,
+        62.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        6.0,
+        52.0,
+        83.0
+    ],
+    "result": [
+        -2.109722655978944,
+        -6.556944010687722
+    ]
+}{
+    "args": [
+        78.0,
+        25.0,
+        77.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        5.0,
+        16.0,
+        99.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        95.0,
+        28.0,
+        36.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        74.0,
+        81.0,
+        93.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        42.0,
+        4.0,
+        30.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        45.0,
+        73.0,
+        43.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        56.0,
+        24.0,
+        76.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        100.0,
+        55.0,
+        79.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        69.0,
+        70.0,
+        85.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        22.0,
+        25.0,
+        97.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        52.0,
+        51.0,
+        45.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        64.0,
+        70.0,
+        72.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        92.0,
+        61.0,
+        35.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        37.0,
+        25.0,
+        98.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        54.0,
+        24.0,
+        48.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        46.0,
+        35.0,
+        50.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        4.0,
+        96.0,
+        94.0
+    ],
+    "result": [
+        -1.0227507999499252,
+        -22.977249200050075
+    ]
+}{
+    "args": [
+        53.0,
+        93.0,
+        40.0
+    ],
+    "result": [
+        -0.7547169811320755,
+        -1.0
+    ]
+}{
+    "args": [
+        70.0,
+        51.0,
+        56.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        45.0,
+        20.0,
+        57.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        21.0,
+        96.0,
+        76.0
+    ],
+    "result": [
+        -1.0186538385095172,
+        -3.552774732919054
+    ]
+}{
+    "args": [
+        18.0,
+        61.0,
+        59.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        6.0,
+        56.0,
+        91.0
+    ],
+    "result": [
+        -2.0954585632430813,
+        -7.237874770090252
+    ]
+}{
+    "args": [
+        46.0,
+        36.0,
+        58.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        20.0,
+        47.0,
+        24.0
+    ],
+    "result": [
+        -0.75,
+        -1.6
+    ]
+}{
+    "args": [
+        22.0,
+        71.0,
+        89.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        9.0,
+        57.0,
+        18.0
+    ],
+    "result": [
+        -0.3333333333333333,
+        -6.0
+    ]
+}{
+    "args": [
+        86.0,
+        85.0,
+        26.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        87.0,
+        89.0,
+        91.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        36.0,
+        94.0,
+        98.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        21.0,
+        26.0,
+        45.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        76.0,
+        32.0,
+        41.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        12.0,
+        23.0,
+        24.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        45.0,
+        59.0,
+        84.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        72.0,
+        54.0,
+        91.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        41.0,
+        54.0,
+        42.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        35.0,
+        11.0,
+        60.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        84.0,
+        44.0,
+        22.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        83.0,
+        32.0,
+        6.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        83.0,
+        52.0,
+        46.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        70.0,
+        98.0,
+        16.0
+    ],
+    "result": [
+        -0.188699138052192,
+        -1.211300861947808
+    ]
+}{
+    "args": [
+        39.0,
+        56.0,
+        52.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        33.0,
+        96.0,
+        16.0
+    ],
+    "result": [
+        -0.1774965148057287,
+        -2.7315943942851804
+    ]
+}{
+    "args": [
+        51.0,
+        50.0,
+        26.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        24.0,
+        4.0,
+        91.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        85.0,
+        27.0,
+        84.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        10.0,
+        63.0,
+        13.0
+    ],
+    "result": [
+        -0.2135906279947953,
+        -6.086409372005205
+    ]
+}{
+    "args": [
+        93.0,
+        31.0,
+        14.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        27.0,
+        43.0,
+        97.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        50.0,
+        76.0,
+        18.0
+    ],
+    "result": [
+        -0.29352384841237594,
+        -1.2264761515876241
+    ]
+}{
+    "args": [
+        95.0,
+        55.0,
+        5.0
+    ],
+    "result": [
+        -0.1129420017763324,
+        -0.4660053666447202
+    ]
+}{
+    "args": [
+        52.0,
+        85.0,
+        92.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        95.0,
+        56.0,
+        80.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        71.0,
+        45.0,
+        68.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        22.0,
+        77.0,
+        42.0
+    ],
+    "result": [
+        -0.6760311499353946,
+        -2.8239688500646056
+    ]
+}{
+    "args": [
+        34.0,
+        22.0,
+        61.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        14.0,
+        29.0,
+        36.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        89.0,
+        37.0,
+        49.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        12.0,
+        30.0,
+        80.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        70.0,
+        67.0,
+        33.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        84.0,
+        6.0,
+        85.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        53.0,
+        79.0,
+        89.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        11.0,
+        67.0,
+        17.0
+    ],
+    "result": [
+        -0.26528569393217666,
+        -5.825623396976914
+    ]
+}{
+    "args": [
+        38.0,
+        22.0,
+        7.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        98.0,
+        78.0,
+        29.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        89.0,
+        85.0,
+        43.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        55.0,
+        19.0,
+        75.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        75.0,
+        20.0,
+        29.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        18.0,
+        81.0,
+        8.0
+    ],
+    "result": [
+        -0.10103384029539539,
+        -4.398966159704604
+    ]
+}{
+    "args": [
+        25.0,
+        72.0,
+        22.0
+    ],
+    "result": [
+        -0.347479977300187,
+        -2.532520022699813
+    ]
+}{
+    "args": [
+        33.0,
+        67.0,
+        80.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        51.0,
+        6.0,
+        10.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        59.0,
+        12.0,
+        44.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        87.0,
+        67.0,
+        64.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        18.0,
+        41.0,
+        74.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        49.0,
+        44.0,
+        5.0
+    ],
+    "result": [
+        -0.1334770442093815,
+        -0.7644821394640879
+    ]
+}{
+    "args": [
+        45.0,
+        41.0,
+        2.0
+    ],
+    "result": [
+        -0.05171595899141674,
+        -0.8593951521196944
+    ]
+}{
+    "args": [
+        93.0,
+        16.0,
+        99.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        6.0,
+        9.0,
+        42.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        33.0,
+        75.0,
+        9.0
+    ],
+    "result": [
+        -0.12710894040115825,
+        -2.145618332326115
+    ]
+}{
+    "args": [
+        54.0,
+        78.0,
+        42.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        43.0,
+        29.0,
+        66.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        28.0,
+        18.0,
+        15.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        30.0,
+        3.0,
+        11.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        67.0,
+        83.0,
+        74.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        18.0,
+        5.0,
+        90.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        45.0,
+        13.0,
+        36.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        5.0,
+        41.0,
+        13.0
+    ],
+    "result": [
+        -0.33038463500584714,
+        -7.869615364994152
+    ]
+}{
+    "args": [
+        18.0,
+        17.0,
+        92.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        31.0,
+        70.0,
+        51.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        40.0,
+        65.0,
+        89.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        40.0,
+        33.0,
+        93.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        77.0,
+        76.0,
+        25.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        79.0,
+        39.0,
+        65.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        12.0,
+        37.0,
+        97.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        11.0,
+        38.0,
+        49.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        95.0,
+        8.0,
+        82.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        50.0,
+        6.0,
+        95.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        11.0,
+        32.0,
+        29.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        23.0,
+        57.0,
+        37.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        55.0,
+        41.0,
+        72.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        17.0,
+        67.0,
+        88.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        14.0,
+        38.0,
+        31.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        28.0,
+        0.0,
+        6.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        17.0,
+        83.0,
+        68.0
+    ],
+    "result": [
+        -1.041411290083436,
+        -3.8409416510930345
+    ]
+}{
+    "args": [
+        58.0,
+        28.0,
+        47.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        19.0,
+        7.0,
+        75.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        3.0,
+        16.0,
+        3.0
+    ],
+    "result": [
+        -0.19460050430144568,
+        -5.138732829031888
+    ]
+}{
+    "args": [
+        80.0,
+        37.0,
+        96.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        15.0,
+        13.0,
+        94.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        40.0,
+        98.0,
+        82.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        2.0,
+        86.0,
+        40.0
+    ],
+    "result": [
+        -0.4702591551869091,
+        -42.52974084481309
+    ]
+}{
+    "args": [
+        48.0,
+        65.0,
+        73.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        3.0,
+        28.0,
+        80.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        54.0,
+        34.0,
+        70.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        21.0,
+        22.0,
+        7.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        37.0,
+        75.0,
+        66.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        43.0,
+        11.0,
+        55.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        27.0,
+        83.0,
+        44.0
+    ],
+    "result": [
+        -0.6809685680499096,
+        -2.3931055060241646
+    ]
+}{
+    "args": [
+        79.0,
+        90.0,
+        66.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        86.0,
+        1.0,
+        29.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        52.0,
+        9.0,
+        64.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        64.0,
+        82.0,
+        14.0
+    ],
+    "result": [
+        -0.20284607105869062,
+        -1.0784039289413094
+    ]
+}{
+    "args": [
+        89.0,
+        2.0,
+        21.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        2.0,
+        30.0,
+        59.0
+    ],
+    "result": [
+        -2.3279597836056993,
+        -12.6720402163943
+    ]
+}{
+    "args": [
+        7.0,
+        54.0,
+        15.0
+    ],
+    "result": [
+        -0.28857257234377237,
+        -7.425713141941942
+    ]
+}{
+    "args": [
+        18.0,
+        16.0,
+        37.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        25.0,
+        23.0,
+        8.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        85.0,
+        58.0,
+        71.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        61.0,
+        68.0,
+        20.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        43.0,
+        75.0,
+        40.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        1.0,
+        20.0,
+        82.0
+    ],
+    "result": [
+        -5.757359312880715,
+        -14.242640687119284
+    ]
+}{
+    "args": [
+        98.0,
+        79.0,
+        91.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        27.0,
+        83.0,
+        42.0
+    ],
+    "result": [
+        -0.6387457158788961,
+        -2.435328358195178
+    ]
+}{
+    "args": [
+        36.0,
+        100.0,
+        19.0
+    ],
+    "result": [
+        -0.20515134707430466,
+        -2.5726264307034734
+    ]
+}{
+    "args": [
+        16.0,
+        99.0,
+        40.0
+    ],
+    "result": [
+        -0.43456045006189914,
+        -5.752939549938101
+    ]
+}{
+    "args": [
+        30.0,
+        94.0,
+        68.0
+    ],
+    "result": [
+        -1.1333333333333333,
+        -2.0
+    ]
+}{
+    "args": [
+        18.0,
+        47.0,
+        85.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        71.0,
+        17.0,
+        80.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        94.0,
+        62.0,
+        49.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        22.0,
+        45.0,
+        33.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        16.0,
+        77.0,
+        32.0
+    ],
+    "result": [
+        -0.45944773410343487,
+        -4.353052265896565
+    ]
+}{
+    "args": [
+        31.0,
+        99.0,
+        97.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        11.0,
+        40.0,
+        46.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        4.0,
+        44.0,
+        46.0
+    ],
+    "result": [
+        -1.1698729810778064,
+        -9.830127018922195
+    ]
+}{
+    "args": [
+        74.0,
+        82.0,
+        97.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        32.0,
+        91.0,
+        44.0
+    ],
+    "result": [
+        -0.6176806729713893,
+        -2.2260693270286107
+    ]
+}{
+    "args": [
+        40.0,
+        6.0,
+        84.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        98.0,
+        16.0,
+        37.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        82.0,
+        49.0,
+        97.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        41.0,
+        68.0,
+        43.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        47.0,
+        90.0,
+        75.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        70.0,
+        75.0,
+        7.0
+    ],
+    "result": [
+        -0.10329111806670542,
+        -0.968137453361866
+    ]
+}{
+    "args": [
+        37.0,
+        49.0,
+        37.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        64.0,
+        23.0,
+        65.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        34.0,
+        75.0,
+        17.0
+    ],
+    "result": [
+        -0.25649020993187294,
+        -1.9493921430093035
+    ]
+}{
+    "args": [
+        29.0,
+        45.0,
+        7.0
+    ],
+    "result": [
+        -0.17537673216317248,
+        -1.376347405767862
+    ]
+}{
+    "args": [
+        79.0,
+        64.0,
+        42.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        29.0,
+        40.0,
+        48.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        16.0,
+        61.0,
+        74.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        25.0,
+        64.0,
+        48.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        74.0,
+        8.0,
+        82.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        22.0,
+        9.0,
+        28.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        75.0,
+        60.0,
+        20.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        39.0,
+        71.0,
+        1.0
+    ],
+    "result": [
+        -0.014195192050946067,
+        -1.8063176284618743
+    ]
+}{
+    "args": [
+        33.0,
+        4.0,
+        25.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        5.0,
+        41.0,
+        25.0
+    ],
+    "result": [
+        -0.6634319445120838,
+        -7.536568055487916
+    ]
+}{
+    "args": [
+        12.0,
+        89.0,
+        47.0
+    ],
+    "result": [
+        -0.5722419053860476,
+        -6.844424761280618
+    ]
+}{
+    "args": [
+        41.0,
+        67.0,
+        94.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        38.0,
+        77.0,
+        77.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        99.0,
+        64.0,
+        68.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        46.0,
+        0.0,
+        50.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        53.0,
+        84.0,
+        73.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        2.0,
+        32.0,
+        74.0
+    ],
+    "result": [
+        -2.803847577293368,
+        -13.196152422706632
+    ]
+}{
+    "args": [
+        6.0,
+        7.0,
+        94.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        84.0,
+        82.0,
+        5.0
+    ],
+    "result": [
+        -0.06535045465322135,
+        -0.9108400215372547
+    ]
+}{
+    "args": [
+        48.0,
+        73.0,
+        3.0
+    ],
+    "result": [
+        -0.04227078528570072,
+        -1.4785625480476325
+    ]
+}{
+    "args": [
+        46.0,
+        89.0,
+        30.0
+    ],
+    "result": [
+        -0.43478260869565216,
+        -1.5
+    ]
+}{
+    "args": [
+        74.0,
+        53.0,
+        80.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        10.0,
+        75.0,
+        76.0
+    ],
+    "result": [
+        -1.207855236222768,
+        -6.292144763777232
+    ]
+}{
+    "args": [
+        33.0,
+        96.0,
+        86.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        55.0,
+        8.0,
+        64.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        75.0,
+        16.0,
+        33.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        32.0,
+        80.0,
+        8.0
+    ],
+    "result": [
+        -0.10435607626104004,
+        -2.3956439237389597
+    ]
+}{
+    "args": [
+        54.0,
+        1.0,
+        35.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        56.0,
+        19.0,
+        88.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        65.0,
+        3.0,
+        22.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        26.0,
+        44.0,
+        5.0
+    ],
+    "result": [
+        -0.12250431837589314,
+        -1.5698033739317991
+    ]
+}{
+    "args": [
+        96.0,
+        36.0,
+        94.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        14.0,
+        59.0,
+        8.0
+    ],
+    "result": [
+        -0.14026145528366232,
+        -4.074024259002052
+    ]
+}{
+    "args": [
+        37.0,
+        99.0,
+        20.0
+    ],
+    "result": [
+        -0.22013056855393426,
+        -2.4555451071217416
+    ]
+}{
+    "args": [
+        50.0,
+        43.0,
+        80.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        15.0,
+        61.0,
+        67.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        48.0,
+        49.0,
+        54.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        56.0,
+        87.0,
+        67.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        2.0,
+        88.0,
+        9.0
+    ],
+    "result": [
+        -0.10251155954181002,
+        -43.89748844045819
+    ]
+}{
+    "args": [
+        72.0,
+        3.0,
+        18.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        73.0,
+        44.0,
+        63.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        23.0,
+        18.0,
+        61.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        35.0,
+        35.0,
+        82.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        49.0,
+        66.0,
+        45.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        57.0,
+        30.0,
+        87.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        63.0,
+        42.0,
+        2.0
+    ],
+    "result": [
+        -0.05161524842382779,
+        -0.6150514182428389
+    ]
+}{
+    "args": [
+        5.0,
+        60.0,
+        31.0
+    ],
+    "result": [
+        -0.5410623744175276,
+        -11.458937625582474
+    ]
+}{
+    "args": [
+        91.0,
+        38.0,
+        99.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        57.0,
+        68.0,
+        3.0
+    ],
+    "result": [
+        -0.04588228679034332,
+        -1.1471001693500076
+    ]
+}{
+    "args": [
+        20.0,
+        52.0,
+        34.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        47.0,
+        58.0,
+        40.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        12.0,
+        85.0,
+        18.0
+    ],
+    "result": [
+        -0.21850510306826423,
+        -6.8648282302650685
+    ]
+}{
+    "args": [
+        17.0,
+        12.0,
+        81.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        34.0,
+        58.0,
+        60.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        16.0,
+        44.0,
+        41.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        42.0,
+        67.0,
+        38.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        7.0,
+        90.0,
+        1.0
+    ],
+    "result": [
+        -0.011120729938228229,
+        -12.84602212720463
+    ]
+}{
+    "args": [
+        81.0,
+        3.0,
+        47.0
+    ],
+    "result": "Discriminant < 0, no solutions"
+}{
+    "args": [
+        25.0,
+        93.0,
+        84.0
+    ],
+    "result": [
+        -1.54440532323881,
+        -2.17559467676119
+    ]
+}
