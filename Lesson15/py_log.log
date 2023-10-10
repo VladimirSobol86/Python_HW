@@ -1,0 +1,3 @@
+INFO:root:File(file_name='123', extension='docx', parent_directory='c:/Users/vsobo/Desktop/dsa')
+INFO:root:File(file_name='123', extension='pptx', parent_directory='c:/Users/vsobo/Desktop/dsa')
+INFO:root:Folder(folder_name='papka', parent_directory='c:/Users/vsobo/Desktop/dsa')
